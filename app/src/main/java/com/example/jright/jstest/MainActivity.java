@@ -1,15 +1,12 @@
-package com.example.minchaozhu.jstest;
+package com.example.jright.jstest;
 
 import android.content.Context;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.webkit.JavascriptInterface;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
-
-import java.lang.annotation.Annotation;
 
 public class MainActivity extends AppCompatActivity{
 

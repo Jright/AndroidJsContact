@@ -1,4 +1,4 @@
-package com.example.minchaozhu.jstest;
+package com.example.jright.jstest;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

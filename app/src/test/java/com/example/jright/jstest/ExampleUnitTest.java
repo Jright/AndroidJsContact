@@ -1,4 +1,4 @@
-package com.example.minchaozhu.jstest;
+package com.example.jright.jstest;
 
 import org.junit.Test;
 

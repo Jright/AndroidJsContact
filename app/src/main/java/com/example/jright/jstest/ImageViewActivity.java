@@ -1,4 +1,4 @@
-package com.example.minchaozhu.jstest;
+package com.example.jright.jstest;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
